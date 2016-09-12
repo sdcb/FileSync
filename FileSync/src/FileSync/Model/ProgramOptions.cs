@@ -1,6 +1,5 @@
 ﻿using CommandLine;
 using FileSync.Functional;
-using Mono.Options;
 using System;
 using System.Collections.Generic;
 using System.IO;
