@@ -8,7 +8,9 @@
     "Microsoft.NETCore.App": {
       "type": "platform",
       "version": "1.0.0"
-    }
+    },
+    "Newtonsoft.Json": "9.0.1", 
+    "CommandLineParser.Unofficial": "2.0.275"
   },
 
   "frameworks": {
